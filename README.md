@@ -8,9 +8,9 @@ O objetivo do projeto é reunir informações sobre um endereço IP, permitindo 
 
 ## ⚙️ Funcionalidades
 
-- [ ] Validar endereços IPv4 e IPv6.
-- [ ] Consultar informações de geolocalização aproximada.
-- [ ] Identificar organização e provedor de rede.
+- [x] Validar endereços IPv4 e IPv6.
+- [x] Consultar informações de geolocalização aproximada.
+- [x] Identificar organização e provedor de rede.
 - [ ] Consultar reputação do IP em fontes de inteligência.
 - [ ] Gerar relatórios organizados da investigação.
 
