@@ -28,7 +28,6 @@ As funcionalidades serão implementadas gradualmente.
 - `main.py`: coordena a execução.
 - `validator.py`: valida os endereços IP.
 - `geolocation.py`: consulta informações geográficas e de rede.
-- `reputation.py`: consulta fontes de reputação.
 - `report.py`: organiza e exibe os resultados.
 - `requirements.txt`: lista as dependências do projeto.
 
