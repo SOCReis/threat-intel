@@ -1,3 +1,25 @@
+
+# Chaves de API e variáveis de ambiente
+.env
+.env.*
+!.env.example
+
+# Ambiente virtual Python
+venv/
 .venv/
+
+# Arquivos Python temporários
 __pycache__/
 *.py[cod]
+
+# Configurações locais
+.vscode/
+.idea/
+
+# Logs locais
+*.log
+
+# Testes e cobertura
+.pytest_cache/
+.coverage
+htmlcov/
